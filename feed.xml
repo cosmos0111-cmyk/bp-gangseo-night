@@ -1,34 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-  <title><![CDATA[셔츠룸]]></title>
-  <link>https://cosmos0111-cmyk.github.io/bp-gangseo-night</link>
-  <description><![CDATA[셔츠룸 - 홍대 셔츠룸 추천 관련 최신 소식 및 가이드]]></description>
-  <language>ko</language>
-  <pubDate>Wed, 10 Jun 2026 05:52:02 GMT</pubDate>
-  <lastBuildDate>Wed, 10 Jun 2026 05:52:02 GMT</lastBuildDate>
-  <atom:link href="https://cosmos0111-cmyk.github.io/bp-gangseo-night/feed.xml" rel="self" type="application/rss+xml" />
+  <title><![CDATA[마포 홍대 셔츠룸 추천]]></title>
+  <link>https://gangseo-night.pages.dev</link>
+  <description><![CDATA[마포 셔츠룸 관련 최신 뉴스, 서비스 안내, 리얼 후기 정보를 신속하게 전달하는 공식 RSS 피드입니다.]]></description>
+  <language>ko-KR</language>
+  <pubDate>Thu, 28 May 2026 16:26:59 GMT</pubDate>
+  <lastBuildDate>Thu, 28 May 2026 16:26:59 GMT</lastBuildDate>
+  <atom:link href="https://gangseo-night.pages.dev/feed.xml" rel="self" type="application/rss+xml" />
   
     <item>
-      <title><![CDATA[홍대 셔츠룸 추천 현장에서 놓치기 쉬운 포인트를 기록해봤다]]></title>
-      <link>https://cosmos0111-cmyk.github.io/bp-gangseo-night/posts/field_note-001-1b50r9q.html</link>
-      <guid isPermaLink="true">https://cosmos0111-cmyk.github.io/bp-gangseo-night/posts/field_note-001-1b50r9q.html</guid>
-      <description><![CDATA[### 제목: 창작한 제목"사장의 속计 vs 단골 손님의 의심: 단위 서비스업 원가 분석을 위한 조언" #### 포스트 DNA 9889b0fd 관점: 흔한 조언이 실패하는 조건부터 반례 중심으로 분석구조: cold-open-case — 구체적 장면으로 시작해 원인을 뒷]]></description>
-      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[셔츠룸 해결 방법 총정리 — 전문가가 알려주는 5가지 팁]]></title>
-      <link>https://cosmos0111-cmyk.github.io/bp-gangseo-night/posts/guide-002-1b50r9q.html</link>
-      <guid isPermaLink="true">https://cosmos0111-cmyk.github.io/bp-gangseo-night/posts/guide-002-1b50r9q.html</guid>
-      <description><![CDATA[아, 진짜... 홍대 상권에서 폐업한 업소들의 공통된 원인과 살아남은 곳들의 차별화 전략을 분석해 보겠습니다. 먼저 월 매출 3000 찍고도 6개월 만에 폐업한 진짜 원가 구조부터 시작해 보겠습니다. ### 첫째, 소극적인 운영 방식으로 인한 손실월 매출 3000 찍은]]></description>
-      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[엘든링 미사용 보스 데이터 마이닝으로 진짜 이유 찾기]]></title>
-      <link>https://cosmos0111-cmyk.github.io/bp-gangseo-night/posts/review-001-16ofymz.html</link>
-      <guid isPermaLink="true">https://cosmos0111-cmyk.github.io/bp-gangseo-night/posts/review-001-16ofymz.html</guid>
-      <description><![CDATA[아, 진짜... 엘든링에서 발견된 미사용 보스들. 이 논리적인 접근 방법으로는 직접적으로 찾아볼 수 없는 깊숙한 데이터 마이닝 결과를 소개하고자 합니다. 하지만, 이를 통해 실제로 어떤 결정을 내릴 수 있을까요? 주요 세부 질문부터 시작해보겠습니다. ### 비교 기준1]]></description>
-      <pubDate>Tue, 09 Jun 2026 00:00:00 GMT</pubDate>
+      <title><![CDATA[마포 홍대 셔츠룸 추천 - 공식 홈페이지 오픈 안내]]></title>
+      <link>https://gangseo-night.pages.dev/</link>
+      <guid isPermaLink="true">https://gangseo-night.pages.dev/</guid>
+      <description><![CDATA[마포 셔츠룸 관련 최신 뉴스, 서비스 안내, 리얼 후기 정보를 신속하게 전달하는 공식 RSS 피드입니다.]]></description>
+      <pubDate>Thu, 28 May 2026 16:26:59 GMT</pubDate>
     </item>
 </channel>
 </rss>
